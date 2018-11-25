@@ -5,18 +5,18 @@ Keras implementation of Capsule Net for down scaling a U-net
 
 ### Project Plan
 - 11/12 - 1. Read Transforming Auto-encoders by Hinton :white_check_mark:
-- 11/13 - 1. Read Transforming Auto-encoders by Hinton
-- 11/14 - 1. Read Dynamic Routing Between Capsules by Hinton
-- 11/15 - 1. Read Dynamic Routing Between Capsules by Hinton
-- 11/16 - 1. Read Matrix Capsules with EM Routing by Hinton
-- 11/17 - 1. Read Matrix Capsules with EM Routing by Hinton
-- 11/18 - 1. Read Capsules for Object Segmentation by Hinton
+- 11/13 - 1. Read Transforming Auto-encoders by Hinton :white_check_mark:
+- 11/14 - 1. Read Dynamic Routing Between Capsules by Hinton :white_check_mark:
+- 11/15 - 1. Read Dynamic Routing Between Capsules by Hinton :white_check_mark:
+- 11/16 - 1. Read Matrix Capsules with EM Routing by Hinton :white_check_mark:
+- 11/17 - 1. Read Matrix Capsules with EM Routing by Hinton :white_check_mark:
+- 11/18 - 1. Read Capsules for Object Segmentation by Hinton :white_check_mark:
 
-- 11/19 - 1. Implement Dynamic Routing in Keras for MNIST
-- 11/20 - 1. Implement Dynamic Routing in Keras for MNIST
-- 11/21 - 1. Implement Dynamic Routing in Keras for MNIST
-- 11/22 - 1. Explore EM Capsules in Keras for MNIST
-- 11/23 - 1. Explore EM Capsules in Keras for MNIST
+- 11/19 - 1. Implement Dynamic Routing in Keras for MNIST :white_check_mark:
+- 11/20 - 1. Implement Dynamic Routing in Keras for MNIST :white_check_mark:
+- 11/21 - 1. Implement Dynamic Routing in Keras for MNIST :white_check_mark:
+- 11/22 - 1. Explore EM Capsules in Keras for MNIST :white_check_mark:
+- 11/23 - 1. Explore EM Capsules in Keras for MNIST :white_check_mark:
 - 11/24 - 1. Read SegNet Paper
 - 11/25 - 1. Read Brain Tumor Type Classification via Capsule Networks
 

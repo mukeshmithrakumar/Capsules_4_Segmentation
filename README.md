@@ -4,8 +4,8 @@ Keras implementation of Capsule Net for down scaling a U-net
 ## (Work in Progress)
 
 ### Project Plan
-11/12 - 1. Read Transforming Auto-encoders by Hinton
-11/13 - 1. Read Transforming Auto-encoders by Hinton
+- 11/12 - 1. Read Transforming Auto-encoders by Hinton
+- 11/13 - 1. Read Transforming Auto-encoders by Hinton
 11/14 - 1. Read Dynamic Routing Between Capsules by Hinton
 11/15 - 1. Read Dynamic Routing Between Capsules by Hinton
 11/16 - 1. Read Matrix Capsules with EM Routing by Hinton

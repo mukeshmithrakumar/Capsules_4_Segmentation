@@ -1,8 +1,3 @@
-# Capsules
-Keras implementation of Capsule Net for down scaling a U-net
-
-## (Work in Progress)
-
 ### Project Plan
 - 11/12 - 1. Read Transforming Auto-encoders by Hinton :white_check_mark:
 - 11/13 - 1. Read Transforming Auto-encoders by Hinton :white_check_mark:

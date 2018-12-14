@@ -11,7 +11,7 @@ Keras implementation of Capsule Net
 ### If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
 
 ## (Work in Progress)
-__See [Project Plan](https://github.com/mukeshmithrakumar/Capsules/projects/1) for details__
+See [Project Plan](https://github.com/mukeshmithrakumar/Capsules/projects/1) for details
 
 
 

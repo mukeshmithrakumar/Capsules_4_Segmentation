@@ -1,6 +1,6 @@
 import argparse
-import sys
 import os
+import sys
 
 if __name__ == '__main__' and __package__ is None:
     sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))

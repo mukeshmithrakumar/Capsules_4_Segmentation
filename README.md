@@ -11,7 +11,6 @@ Keras implementation of Capsule Net
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=#0077B5)](https://www.linkedin.com/in/mukesh-mithrakumar/)
 
 ## (Work in Progress)
-See [Project Plan](https://github.com/mukeshmithrakumar/Capsules/projects/1) for details
-
+Project on pause till I finish working with the U-Net
 
 
